@@ -40,7 +40,7 @@ CODEX is a Remote Code Executor which lets you execute short code snippets of yo
 Clone the project
 
 ```bash
-  git clone https://github.com/goldsnort/remote-code-executor
+  git clone https://github.com/shantanu-crypto/Codex
 ```
 
 Go to the backend project directory
